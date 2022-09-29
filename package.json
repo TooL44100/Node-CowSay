@@ -1,0 +1,6 @@
+{
+  "type":"commonjs",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
